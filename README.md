@@ -1,1 +1,2 @@
-# FirebaseNewDBSettings-BallSyncCode
+# synchronousBallMovement
+Ball moving synchronously
